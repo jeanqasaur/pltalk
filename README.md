@@ -1,7 +1,9 @@
 # PLTalk
-PLTalk is a weekly livestream Fridays 3pm PT on Twitch [here](https://www.twitch.tv/jeanqasaur).
+In late June, Hongyi and I streamed a paper discussion, without clear ambitions of future livestreams. Some people showed up, it was fun, and we kept streaming. Over the course of the last few months, we've had some of the most interesting people in programming languages come onto the stream. Join us for this experiment in making programming languages design and research more accessible!
 
-Hosted by Jean Yang (me) and Hongyi Hu, a security engineer at Figma.
+PLTalk is now a weekly livestream Fridays 3pm PT on Twitch [here](https://www.twitch.tv/jeanqasaur).
+
+Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)) and Hongyi Hu, a security engineer at Figma.
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
