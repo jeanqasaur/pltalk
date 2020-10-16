@@ -13,5 +13,6 @@ Hosted by Jean Yang (me) and Hongyi Hu, a security engineer at Figma.
 | 9/18/20 | none | Formal methods and the law | [This talk abstract](https://popl18.sigplan.org/details/POPL-2018-papers/3/Formal-Methods-and-the-Law); [Death, Taxes, and Formal Verification](https://justinh.su/files/papers/taxes.pdf) | - |
 | 9/11/20 | [Jeremy Siek](https://wphomes.soic.indiana.edu/jsiek/), Indiana University prof | Gradual typing in academia and the real world | [What is Gradual Typing](https://wphomes.soic.indiana.edu/jsiek/what-is-gradual-typing/) | - |
 | 9/4/20 | [Nelson Elhage](https://nelhage.com/), co-creator of Sorbet | Static and gradual typing of Ruby with [Sorbet](https://sorbet.org/) | - | Coming soon |
-| 8/21/20 | none | CLU and the history of object-oriented programming | [Abstraction Mechanisms in CLU] | - |
+| 8/21/20 | none | CLU and the history of object-oriented programming | [Abstraction Mechanisms in CLU](https://web.eecs.umich.edu/~weimerw/2011-6610/reading/liskov-clu-abstraction.pdf) | - |
 | 8/14/20 | [Jeff Bezanson](https://twitter.com/jeffbezanson?lang=en), co-creator of Julia | Scientific computing with [Julia](https://julialang.org/) | - | [On Youtube](https://www.youtube.com/watch?v=W6I1zQ16_44&ab_channel=JeanYang) |
+| 8/7/20 | [Edwin Brady](https://edwinb.wordpress.com/), St. Andrews professor and Idris creator | Dependently typed programming with [Idris](https://www.idris-lang.org/) | - | [On Youtube](https://www.youtube.com/watch?v=Umq4Ic76qA0&t=2s&ab_channel=JeanYang) |
