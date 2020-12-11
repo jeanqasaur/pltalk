@@ -7,6 +7,7 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)) and Hongyi Hu, a secu
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
+| 11/20/20 | [William Byrd](http://webyrd.net/), University of Alabama at Birmingham prof | Using [miniKanren](http://minikanren.org/) for relational programming | TBD | - |
 | 10/30/20 | [James Wilcox](https://jamesrwilcox.com/), CTO of Certora | Using [Dafny](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/) for fun and profit | TBD | - |
 | 10/23/20  | [Nate Foster](https://www.cs.cornell.edu/~jnfoster/), Cornell prof and [avid cyclist](https://twitter.com/natefoster/status/1310692537364029441) | Data plane verification with p4v and Petr4 | TBD | [Ephemeral Twitch video](https://www.twitch.tv/videos/779679486) |
 | 10/16/20  | [Ranjit Jhala](https://ranjitjhala.github.io/), UCSD prof and [PL pop sensation](https://www.youtube.com/watch?v=05L0hOw2yVs&ab_channel=KarlKoscher) | Refinement type-checking with liquid types | See [this Tweet](https://twitter.com/RanjitJhala/status/1316946237128691712) | - |
