@@ -7,7 +7,8 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)) and Hongyi Hu, a secu
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
-| 1/29/21 | [Nuno Lopes](https://www.microsoft.com/en-us/research/people/nlopes/), MSR researcher | Introduction to LLVM | - | - |
+| 3/15/21 | [Arjun Guha](https://ccs.neu.edu/~arjunguha/main/home/), Northeastern prof | Understanding continuations by implementing callcc in JavaScript | [PLISS 2019 Lectures on continuations](https://arjunguha.github.io/pliss2019/)
+| 1/29/21 | [Nuno Lopes](http://web.ist.utl.pt/nuno.lopes/), MSR researcher | Introduction to LLVM | - | - |
 | 1/22/21 | [Edward Yang](http://ezyang.com/), Facebook engineer | PyTorch and other topics | TBD | - |
 | 1/15/21 | [Joe Gibbs Politz](https://jpolitz.github.io/), UCSD teaching faculty | How does a programming language work | [Python: The Full Monty; A Tested Semantics for the Python Programming Language](http://cs.brown.edu/research/plt/dl/lambda-py/) | - | - |
 | 1/8/21 | none | 2021 planning and requests | - | - |
