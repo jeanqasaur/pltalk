@@ -7,6 +7,9 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)) and Hongyi Hu, a secu
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
+| 1/15/21 | [Joe Gibbs Politz](https://jpolitz.github.io/), UCSD teaching faculty | How does a programming language work | [Python: The Full Monty; A Tested Semantics for the Python Programming Language](http://cs.brown.edu/research/plt/dl/lambda-py/) | - | - |
+| 1/8/21 | - | 2021 planning and requests | - | - |
+| 12/18/20 | - | 2020 in review | - | - |
 | 12/11/20 | [Joey Dodds](https://galois.com/team/joey-dodds/), Galois researcher | The [Software Analysis Workbench (SAW)](https://galois.com/project/software-analysis-workbench/) | - | - |
 | 12/4/20 | [Manuel Rigger](https://www.manuelrigger.at/), ET Zurich postdoc | Finding logic bugs in database implementations using [SQLancer](https://github.com/sqlancer/sqlancer) | [Papers](https://github.com/sqlancer/sqlancer/blob/master/docs/PAPERS.md) | - |
 | 11/20/20 | [William Byrd](http://webyrd.net/), University of Alabama at Birmingham prof | Using [miniKanren](http://minikanren.org/) for relational programming | - | - |
