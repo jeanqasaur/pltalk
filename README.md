@@ -1,15 +1,17 @@
 # PLTalk
 In late June, Hongyi and I streamed a paper discussion, without clear ambitions of future livestreams. Some people showed up, it was fun, and we kept streaming. Over the course of the last few months, we've had some of the most interesting people in programming languages come onto the stream. Join us for this experiment in making programming languages design and research more accessible!
 
-PLTalk is now a weekly livestream Fridays 3pm PT on Twitch [here](https://www.twitch.tv/jeanqasaur).
+PLTalk is now a weekly livestream Fridays 3pm PT on Twitch [here](https://www.twitch.tv/jeanqasaur). We additionally have an active Discord [here](https://discord.gg/TUbZej9Pyb).
 
 Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)) and Hongyi Hu, a security engineer at Figma.
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
+| 1/29/21 | [Nuno Lopes](https://www.microsoft.com/en-us/research/people/nlopes/), MSR researcher | Introduction to LLVM | - | - |
+| 1/22/21 | [Edward Yang](http://ezyang.com/), Facebook engineer | PyTorch and other topics | TBD | - |
 | 1/15/21 | [Joe Gibbs Politz](https://jpolitz.github.io/), UCSD teaching faculty | How does a programming language work | [Python: The Full Monty; A Tested Semantics for the Python Programming Language](http://cs.brown.edu/research/plt/dl/lambda-py/) | - | - |
-| 1/8/21 | - | 2021 planning and requests | - | - |
-| 12/18/20 | - | 2020 in review | - | - |
+| 1/8/21 | none | 2021 planning and requests | - | - |
+| 12/18/20 | none | 2020 in review | - | - |
 | 12/11/20 | [Joey Dodds](https://galois.com/team/joey-dodds/), Galois researcher | The [Software Analysis Workbench (SAW)](https://galois.com/project/software-analysis-workbench/) | - | - |
 | 12/4/20 | [Manuel Rigger](https://www.manuelrigger.at/), ET Zurich postdoc | Finding logic bugs in database implementations using [SQLancer](https://github.com/sqlancer/sqlancer) | [Papers](https://github.com/sqlancer/sqlancer/blob/master/docs/PAPERS.md) | - |
 | 11/20/20 | [William Byrd](http://webyrd.net/), University of Alabama at Birmingham prof | Using [miniKanren](http://minikanren.org/) for relational programming | - | - |
