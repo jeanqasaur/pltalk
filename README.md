@@ -7,6 +7,8 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)) and Hongyi Hu, a secu
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
+| 12/11/20 | [Joey Dodds](https://galois.com/team/joey-dodds/), Galois researcher | The [Software Analysis Workbench (SAW)](https://galois.com/project/software-analysis-workbench/) | - | - |
+| 12/4/20 | [Manuel Rigger](https://www.manuelrigger.at/), ET Zurich postdoc | Finding logic bugs in database implementations using [SQLancer](https://github.com/sqlancer/sqlancer)] | - | - |
 | 11/20/20 | [William Byrd](http://webyrd.net/), University of Alabama at Birmingham prof | Using [miniKanren](http://minikanren.org/) for relational programming | TBD | - |
 | 10/30/20 | [James Wilcox](https://jamesrwilcox.com/), CTO of Certora | Using [Dafny](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/) for fun and profit | TBD | - |
 | 10/23/20  | [Nate Foster](https://www.cs.cornell.edu/~jnfoster/), Cornell prof and [avid cyclist](https://twitter.com/natefoster/status/1310692537364029441) | Data plane verification with p4v and Petr4 | TBD | [Ephemeral Twitch video](https://www.twitch.tv/videos/779679486) |
