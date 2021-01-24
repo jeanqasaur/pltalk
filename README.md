@@ -10,7 +10,7 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)) and Hongyi Hu, a secu
 | 3/19/21 | [John Regehr](https://www.cs.utah.edu/~regehr/), Utah prof | A to-be-determined fuzzing topic | - | - |
 | 3/12/21 | [Arjun Guha](https://ccs.neu.edu/~arjunguha/main/home/), Northeastern prof | Understanding continuations by implementing callcc in JavaScript | [PLISS 2019 Lectures on continuations](https://arjunguha.github.io/pliss2019/)
 | 2/26/21 (2pm PT!) | [Carl Friedrich Bolz-Tereick](https://cfbolz.de/), core PyPy developer | JITing Python with PyPy | - | - |
-| 2/5/21 | José Valim (creator of Elixir), Evan Czaplicki (creator of Elm), Jeff Bezanson (creator of Julia) | How does funding shape programming language design and development? | - | - | - |
+| 2/5/21 (10am PT!) | José Valim (creator of Elixir), Evan Czaplicki (creator of Elm), Jeff Bezanson (creator of Julia) | How does funding shape programming language design and development? | - | - | - |
 | 1/29/21 | [Nuno Lopes](http://web.ist.utl.pt/nuno.lopes/), MSR researcher | Introduction to LLVM | - | - |
 | 1/22/21 | [Edward Yang](http://ezyang.com/), Facebook engineer | PyTorch and other topics | TBD | - |
 | 1/15/21 | [Joe Gibbs Politz](https://jpolitz.github.io/), UCSD teaching faculty | How does a programming language work | [Python: The Full Monty; A Tested Semantics for the Python Programming Language](http://cs.brown.edu/research/plt/dl/lambda-py/) | - | - |
