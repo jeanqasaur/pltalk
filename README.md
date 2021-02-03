@@ -1,15 +1,20 @@
 # PLTalk
-In late June, Hongyi and I streamed a paper discussion, without clear ambitions of future livestreams. Some people showed up, it was fun, and we kept streaming. Over the course of the last few months, we've had some of the most interesting people in programming languages come onto the stream. Join us for this experiment in making programming languages design and research more accessible!
+In late June, Hongyi Hu and I streamed a paper discussion, without clear ambitions of future livestreams. Some people showed up, it was fun, and we kept streaming. Join us for this experiment in making programming languages design and research more accessible!
 
-PLTalk is now a weekly livestream Fridays 3pm PT on Twitch [here](https://www.twitch.tv/jeanqasaur). We additionally have an active Discord [here](https://discord.gg/TUbZej9Pyb).
+Links:
+* PLTalk is a weekly livestream Fridays 3pm PT on Twitch [here](https://www.twitch.tv/jeanqasaur)
+* We additionally have an active Discord [here](https://discord.gg/TUbZej9Pyb).
+* Upon request, we have a Google Calendar [here](https://calendar.google.com/calendar/embed?src=c_1mhnne9aivfokpjfi2g9vqc390%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+Subscribe to the #PLTalk hashtag on Twitter for announcements and discussion!
 
-Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)) and Hongyi Hu, a security engineer at Figma.
+Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [Akita Software](docs.akitasoftware.com), and Hongyi Hu, a security engineer at Figma.
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
 | 3/19/21 | [John Regehr](https://www.cs.utah.edu/~regehr/), Utah prof | A to-be-determined fuzzing topic | - | - |
-| 3/12/21 | [Arjun Guha](https://ccs.neu.edu/~arjunguha/main/home/), Northeastern prof | Understanding continuations by implementing callcc in JavaScript | [PLISS 2019 Lectures on continuations](https://arjunguha.github.io/pliss2019/)
+| 3/12/21 | [Arjun Guha](https://ccs.neu.edu/~arjunguha/main/home/), Northeastern prof | Understanding continuations by implementing callcc in JavaScript | [PLISS 2019 Lectures on continuations](https://arjunguha.github.io/pliss2019/) |
 | 2/26/21 (2pm PT!) | [Carl Friedrich Bolz-Tereick](https://cfbolz.de/), core PyPy developer | JITing Python with PyPy | - | - |
+| 2/19/21 (11am PT!) | [Sam Tobin-Hochstadt](http://homes.sice.indiana.edu/samth/), core Racket developer, and [Quinn Wilton](https://twitter.com/wilton_quinn?lang=en) | The Great Metaprogram-Off 💀 | - | - |
 | 2/5/21 (10am PT!) | José Valim (creator of Elixir), Evan Czaplicki (creator of Elm), Jeff Bezanson (creator of Julia) | How does funding shape programming language design and development? | - | - | - |
 | 1/29/21 | [Nuno Lopes](http://web.ist.utl.pt/nuno.lopes/), MSR researcher | Introduction to LLVM | - | - |
 | 1/22/21 | [Edward Yang](http://ezyang.com/), Facebook engineer | PyTorch and other topics | TBD | - |
