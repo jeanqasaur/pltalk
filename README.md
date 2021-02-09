@@ -14,7 +14,7 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [
 | --- | --- | --- | --- | --- |
 | 3/19/21 | [John Regehr](https://www.cs.utah.edu/~regehr/), Utah prof | A to-be-determined fuzzing topic | - | - |
 | 3/12/21 | [Arjun Guha](https://ccs.neu.edu/~arjunguha/main/home/), Northeastern prof | Understanding continuations by implementing callcc in JavaScript | [PLISS 2019 Lectures on continuations](https://arjunguha.github.io/pliss2019/) |
-| 3/5/21 | [Rob O'Callahan](http://www.ocallahan.org/), Pernosco | Time-travel debugging | TBD |
+| 3/5/21 | [Rob O'Callahan](http://www.ocallahan.org/), Pernosco | Time-travel debugging | [Engineering Record and Reply for Deployability](https://arxiv.org/pdf/1705.05937.pdf) |
 | 2/26/21 (2pm PT!) | [Carl Friedrich Bolz-Tereick](https://cfbolz.de/), core PyPy developer | JITing Python with PyPy | - | - |
 | 2/19/21 (11am PT!) | [Sam Tobin-Hochstadt](http://homes.sice.indiana.edu/samth/), core Racket developer, and [Quinn Wilton](https://twitter.com/wilton_quinn?lang=en) | The Great Metaprogram-Off 💀 | - | - |
 | 2/5/21 (10am PT!) | José Valim (creator of Elixir), Evan Czaplicki (creator of Elm), Jeff Bezanson (creator of Julia) | How does funding shape programming language design and development? | - | - | - |
