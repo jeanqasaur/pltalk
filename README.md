@@ -12,6 +12,8 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
+| 4/23/21 | [Dr. Neha Rungta](https://scholar.google.com/citations?user=kh6bNhYAAAAJ&hl=en), Amazon AWS | AWS Zelkova | [How AWS uses automated reasoning to help you achieve security at scale](https://aws.amazon.com/blogs/security/protect-sensitive-data-in-the-cloud-with-automated-reasoning-zelkova/) |
+| 4/16/21 | [Satnam Singh](https://fpcastle.com/satnam/), Coq hacker at Google | Hardware design and verification with Cava | TBD |
 | 3/19/21 | [John Regehr](https://www.cs.utah.edu/~regehr/), Utah prof | A to-be-determined fuzzing topic | - | - |
 | 3/12/21 | [Arjun Guha](https://ccs.neu.edu/~arjunguha/main/home/), Northeastern prof | Understanding continuations by implementing callcc in JavaScript | [PLISS 2019 Lectures on continuations](https://arjunguha.github.io/pliss2019/) |
 | 3/5/21 | [Rob O'Callahan](http://www.ocallahan.org/), Pernosco | Time-travel debugging | [Engineering Record and Reply for Deployability](https://arxiv.org/pdf/1705.05937.pdf) |
