@@ -13,16 +13,17 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
 | 4/23/21 | [Dr. Neha Rungta](https://scholar.google.com/citations?user=kh6bNhYAAAAJ&hl=en), Amazon AWS | AWS Zelkova | [How AWS uses automated reasoning to help you achieve security at scale](https://aws.amazon.com/blogs/security/protect-sensitive-data-in-the-cloud-with-automated-reasoning-zelkova/) |
-| 4/16/21 | [Satnam Singh](https://fpcastle.com/satnam/), Coq hacker at Google | Hardware design and verification with Cava | TBD |
+| 4/9/21 | [Ben Lichtman](https://github.com/uniqueiniquity) and [Daniel Rosenwasser](https://devblogs.microsoft.com/typescript/author/danielrosenwasser/), TypeScript team | Compiling TypeScript | - | - |
+| 4/2/21 | [Satnam Singh](https://fpcastle.com/satnam/), Coq hacker at Google | Hardware design and verification with Cava | TBD |
 | 3/19/21 | [John Regehr](https://www.cs.utah.edu/~regehr/), Utah prof | A to-be-determined fuzzing topic | - | - |
 | 3/12/21 | [Arjun Guha](https://ccs.neu.edu/~arjunguha/main/home/), Northeastern prof | Understanding continuations by implementing callcc in JavaScript | [PLISS 2019 Lectures on continuations](https://arjunguha.github.io/pliss2019/) |
 | 3/5/21 | [Rob O'Callahan](http://www.ocallahan.org/), Pernosco | Time-travel debugging | [Engineering Record and Reply for Deployability](https://arxiv.org/pdf/1705.05937.pdf) |
 | 2/26/21 (2pm PT!) | [Carl Friedrich Bolz-Tereick](https://cfbolz.de/), core PyPy developer | JITing Python with PyPy | - | - |
-| 2/19/21 (11am PT!) | [Sam Tobin-Hochstadt](http://homes.sice.indiana.edu/samth/), core Racket developer, and [Quinn Wilton](https://twitter.com/wilton_quinn?lang=en) | The Great Metaprogram-Off 💀 | - | - |
-| 2/5/21 (10am PT!) | José Valim (creator of Elixir), Evan Czaplicki (creator of Elm), Jeff Bezanson (creator of Julia) | How does funding shape programming language design and development? | - | - | - |
+| 2/19/21 (11am PT!) | [Sam Tobin-Hochstadt](http://homes.sice.indiana.edu/samth/), core Racket developer, and [Quinn Wilton](https://twitter.com/wilton_quinn?lang=en) | The Great Metaprogram-Off 💀 | - | [On Youtube](https://www.youtube.com/watch?v=lbpHpZQEArI&list=PLS2jJcAXR9IgLdhf2C74ms_aS4mZKuZJ1&index=9) |
+| 2/5/21 (10am PT!) | José Valim (creator of Elixir), Evan Czaplicki (creator of Elm), Jeff Bezanson (creator of Julia) | How does funding shape programming language design and development? | - | [On Youtube](https://www.youtube.com/watch?v=f0ouXATi25I&list=PLS2jJcAXR9IgLdhf2C74ms_aS4mZKuZJ1&index=8&t=3598s) |
 | 1/29/21 | [Nuno Lopes](http://web.ist.utl.pt/nuno.lopes/), MSR researcher | Introduction to LLVM | - | - |
 | 1/22/21 | [Edward Yang](http://ezyang.com/), Facebook engineer | PyTorch and other topics | TBD | - |
-| 1/15/21 | [Joe Gibbs Politz](https://jpolitz.github.io/), UCSD teaching faculty | How does a programming language work | [Python: The Full Monty; A Tested Semantics for the Python Programming Language](http://cs.brown.edu/research/plt/dl/lambda-py/) | - | - |
+| 1/15/21 | [Joe Gibbs Politz](https://jpolitz.github.io/), UCSD teaching faculty | How does a programming language work | [Python: The Full Monty; A Tested Semantics for the Python Programming Language](http://cs.brown.edu/research/plt/dl/lambda-py/) | - | [On Youtube](https://www.youtube.com/watch?v=_uQ1g_ETJgE&list=PLS2jJcAXR9IgLdhf2C74ms_aS4mZKuZJ1&index=4) |
 | 1/8/21 | none | 2021 planning and requests | - | - |
 | 12/18/20 | none | 2020 in review | - | - |
 | 12/11/20 | [Joey Dodds](https://galois.com/team/joey-dodds/), Galois researcher | The [Software Analysis Workbench (SAW)](https://galois.com/project/software-analysis-workbench/) | - | [On Youtube](https://www.youtube.com/watch?v=_sX6w-f0YCM&ab_channel=JeanYang) |
