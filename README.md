@@ -2,8 +2,9 @@
 In late June, Hongyi Hu and I streamed a paper discussion, without clear ambitions of future livestreams. Some people showed up, it was fun, and we kept streaming. Join us for this experiment in making programming languages design and research more accessible!
 
 Links:
-* PLTalk is a weekly livestream Fridays 3pm PT on Twitch [here](https://www.twitch.tv/jeanqasaur)
+* PLTalk is a weekly livestream Fridays 3pm PT on Twitch [here](https://www.twitch.tv/jeanqasaur).
 * We additionally have an active Discord [here](https://discord.gg/TUbZej9Pyb).
+* You may watch past videos on YouTube [here](https://www.youtube.com/watch?v=Umq4Ic76qA0&list=PLS2jJcAXR9IgLdhf2C74ms_aS4mZKuZJ1).
 * Upon request, we have a Google Calendar [here](https://calendar.google.com/calendar/embed?src=c_1mhnne9aivfokpjfi2g9vqc390%40group.calendar.google.com&ctz=America%2FLos_Angeles).
 Subscribe to the #PLTalk hashtag on Twitter for announcements and discussion!
 
@@ -12,6 +13,7 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
+| 5/7/21 | Tomas Petricek, University of Kent/fsharpWorks | Topic TBD | TBD | - |
 | 4/30/21 | Jordan Brown and Mike Vitousek, Facebook | [The Flow Typechecker](https://flow.org/) | [Blog post about Flow](https://engineering.fb.com/2014/11/18/web/flow-a-new-static-type-checker-for-javascript/) | - |
 | 4/23/21 | [Dr. Neha Rungta](https://scholar.google.com/citations?user=kh6bNhYAAAAJ&hl=en), Amazon AWS | AWS Zelkova | [How AWS uses automated reasoning to help you achieve security at scale](https://aws.amazon.com/blogs/security/protect-sensitive-data-in-the-cloud-with-automated-reasoning-zelkova/) |
 | 4/9/21 | [Ben Lichtman](https://github.com/uniqueiniquity) and [Daniel Rosenwasser](https://devblogs.microsoft.com/typescript/author/danielrosenwasser/), TypeScript team | Compiling TypeScript | - | - |
