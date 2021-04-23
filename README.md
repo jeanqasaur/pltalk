@@ -15,7 +15,7 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [
 | --- | --- | --- | --- | --- |
 | 5/7/21 | Tomas Petricek, University of Kent/fsharpWorks | Topic TBD | TBD | - |
 | 4/30/21 | Jordan Brown and Mike Vitousek, Facebook | [The Flow Typechecker](https://flow.org/) | [Blog post about Flow](https://engineering.fb.com/2014/11/18/web/flow-a-new-static-type-checker-for-javascript/) | - |
-| 4/23/21 | [Dr. Neha Rungta](https://scholar.google.com/citations?user=kh6bNhYAAAAJ&hl=en), Amazon AWS | AWS Zelkova | [How AWS uses automated reasoning to help you achieve security at scale](https://aws.amazon.com/blogs/security/protect-sensitive-data-in-the-cloud-with-automated-reasoning-zelkova/) |
+| 4/23/21 | [Dr. Neha Rungta](https://scholar.google.com/citations?user=kh6bNhYAAAAJ&hl=en), Amazon AWS | AWS Zelkova | [How AWS uses automated reasoning to help you achieve security at scale](https://aws.amazon.com/blogs/security/protect-sensitive-data-in-the-cloud-with-automated-reasoning-zelkova/); [Zelkova paper](https://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD18/papers/paper3.pdf) |
 | 4/9/21 | [Ben Lichtman](https://github.com/uniqueiniquity) and [Daniel Rosenwasser](https://devblogs.microsoft.com/typescript/author/danielrosenwasser/), TypeScript team | Compiling TypeScript | - | - |
 | 4/2/21 | [Satnam Singh](https://fpcastle.com/satnam/), Coq hacker at Google | Hardware design and verification with Cava | [Cava tutorial](https://project-oak.github.io/silveroak/demo/tutorial.html) | - |
 | 3/19/21 | [John Regehr](https://www.cs.utah.edu/~regehr/), Utah prof | A to-be-determined fuzzing topic | - | - |
