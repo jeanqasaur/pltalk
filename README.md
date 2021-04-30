@@ -13,6 +13,7 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
+| 5/21/21 | Ned Williamson, Google | Fuzzing | [SockPuppet: A Walkthrough of a Kernel Exploit for iOS 12.4](https://googleprojectzero.blogspot.com/2019/12/sockpuppet-walkthrough-of-kernel.html |  |
 | 5/7/21 | Tomas Petricek, University of Kent/fsharpWorks | Topic TBD | TBD | - |
 | 4/30/21 | Jordan Brown and Mike Vitousek, Facebook | [The Flow Typechecker](https://flow.org/) | [Blog post about Flow](https://engineering.fb.com/2014/11/18/web/flow-a-new-static-type-checker-for-javascript/) | - |
 | 4/23/21 | [Dr. Neha Rungta](https://scholar.google.com/citations?user=kh6bNhYAAAAJ&hl=en), Amazon AWS | AWS Zelkova | [How AWS uses automated reasoning to help you achieve security at scale](https://aws.amazon.com/blogs/security/protect-sensitive-data-in-the-cloud-with-automated-reasoning-zelkova/); [Zelkova paper](https://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD18/papers/paper3.pdf) |
