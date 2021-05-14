@@ -8,7 +8,7 @@ Links:
 * Upon request, we have a Google Calendar [here](https://calendar.google.com/calendar/embed?src=c_1mhnne9aivfokpjfi2g9vqc390%40group.calendar.google.com&ctz=America%2FLos_Angeles).
 Subscribe to the #PLTalk hashtag on Twitter for announcements and discussion!
 
-Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [Akita Software](docs.akitasoftware.com(https://twitter.com/paulbiggar), Dark Lang | ), and Hongyi Hu, a security engineer at Figma.
+Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [Akita Software](docs.akitasoftware.com) and Hongyi Hu, a security engineer at Figma.
 
 
 | Date  | Guest(s) | Topic | Reading | Video |
