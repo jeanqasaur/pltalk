@@ -13,6 +13,7 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
+| 6/18/21 | [Ranjit Jhala](https://ranjitjhala.github.io/) and [Nico Lehmann](https://github.com/nilehmann), UCSD | ⚡️TORM: Refinement Types for Secure Web Programming | TBD | - |
 | 6/11/21 | [Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/), Microsoft Research | What bugs cause cloud outages? | [What bugs cause production cloud incidents?](https://people.cs.uchicago.edu/~shanlu/paper/hotos19_azure.pdf) | |
 | 5/21/21 | [Ned Williamson](https://twitter.com/NedWilliamson), Google | Fuzzing | [SockPuppet: A Walkthrough of a Kernel Exploit for iOS 12.4](https://googleprojectzero.blogspot.com/2019/12/sockpuppet-walkthrough-of-kernel.html) |  |
 | 5/14/21 | [Paul Biggar](https://twitter.com/paulbiggar), Dark Lang | A new way to build backend services | [What is Dark?](https://blog.darklang.com/what-is-dark/) | - |
