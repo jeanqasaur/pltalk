@@ -13,7 +13,7 @@ Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
-| 6/25/21 | [Rob Rix](https://github.com/robrix), GitHub | Abstracting Definition Interpreters for Python at GitHub | [Abstracting Definitional Interpreters](http://david.darais.com/assets/papers/abstracting-definitional-interpreters/adi.pdf) | - |
+| 6/25/21 | [Rob Rix](https://github.com/robrix), GitHub | Abstracting Definitional Interpreters for Python at GitHub | [Abstracting Definitional Interpreters](http://david.darais.com/assets/papers/abstracting-definitional-interpreters/adi.pdf) | - |
 | 6/18/21 | [Ranjit Jhala](https://ranjitjhala.github.io/) and [Nico Lehmann](https://github.com/nilehmann), UCSD | ⚡️TORM: Refinement Types for Secure Web Programming | [⚡️TORM: Refinement Types for Secure Web Applications](https://cseweb.ucsd.edu/~npolikarpova/publications/osdi21.pdf) | - |
 | 6/11/21 | [Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/), Microsoft Research | What bugs cause cloud outages? | [What bugs cause production cloud incidents?](https://people.cs.uchicago.edu/~shanlu/paper/hotos19_azure.pdf) | |
 | 5/21/21 | [Ned Williamson](https://twitter.com/NedWilliamson), Google | Fuzzing | [SockPuppet: A Walkthrough of a Kernel Exploit for iOS 12.4](https://googleprojectzero.blogspot.com/2019/12/sockpuppet-walkthrough-of-kernel.html) |  |
