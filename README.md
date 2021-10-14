@@ -1,6 +1,8 @@
 # PLTalk
 In late June 2020, Hongyi Hu and I streamed a paper discussion, without clear ambitions of future livestreams. Some people showed up, it was fun, and we kept streaming. Join us for this experiment in making programming languages design and research more accessible!
 
+FRIDAYS 11AM PT!!
+
 Links:
 * PLTalk is a livestream discussion that happens on Twitch [here](https://www.twitch.tv/jeanqasaur).
 * We additionally have an active Discord [here](https://discord.gg/TUbZej9Pyb).
