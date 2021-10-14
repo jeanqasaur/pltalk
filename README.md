@@ -15,10 +15,10 @@ The theme of Season Two is "Living with Reality." We'll be having a series of di
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
-| 10/29/21 | Yaron Minsky (Jane Street) | Becoming a 100% OCaml shop | [Why OCaml?](https://blog.janestreet.com/why-ocaml/) |  |
-| 11/5/21 | Rich Harris (creator of [Svelte](https://svelte.dev/) at the New York Times) | From JavaScript to TypeScript | TBD | |
-| 11/12/21 | Russ Cox (co-creator of Go at Google) | The Last Ten Years of Go Adoption | TBD | |
-| 11/19/21 | Julien Verlaguet (creator of Hack at Facebook | Adding Types to PHP | [Hack Blog Post](https://engineering.fb.com/2014/03/20/developer-tools/hack-a-new-programming-language-for-hhvm/) | | |
+| 10/29/21 | [Yaron Minsky](https://www.oreilly.com/pub/au/5795) ([Jane Street](https://blog.janestreet.com/)) | Becoming a 100% OCaml shop | [Why OCaml?](https://blog.janestreet.com/why-ocaml/) |  |
+| 11/5/21 | [Rich Harris](https://www.nytimes.com/by/rich-harris) (creator of [Svelte](https://svelte.dev/) at the New York Times) | From JavaScript to TypeScript | TBD | |
+| 11/12/21 | [Russ Cox](https://swtch.com/~rsc/) (co-creator of Go at Google) | The Last Ten Years of Go Adoption | TBD | |
+| 11/19/21 | Julien Verlaguet (co-creator of Hack at Facebook | Adding Types to PHP | [Hack Blog Post](https://engineering.fb.com/2014/03/20/developer-tools/hack-a-new-programming-language-for-hhvm/) | | |
 | 12/3/21 | Hasnain Lakhani and guest (Facebook) | The Benefits of Switching to Rust | [Meet the Rustaceans: Hasnain Lakhani](https://developers.facebook.com/blog/post/2021/10/12/meet-rustaceans-hasnain-lakhani/) | |
 
 # Season One
