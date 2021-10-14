@@ -1,15 +1,28 @@
 # PLTalk
-In late June, Hongyi Hu and I streamed a paper discussion, without clear ambitions of future livestreams. Some people showed up, it was fun, and we kept streaming. Join us for this experiment in making programming languages design and research more accessible!
+In late June 2020, Hongyi Hu and I streamed a paper discussion, without clear ambitions of future livestreams. Some people showed up, it was fun, and we kept streaming. Join us for this experiment in making programming languages design and research more accessible!
 
 Links:
-* PLTalk is a weekly livestream Fridays 3pm PT on Twitch [here](https://www.twitch.tv/jeanqasaur).
+* PLTalk is a livestream discussion that happens on Twitch [here](https://www.twitch.tv/jeanqasaur).
 * We additionally have an active Discord [here](https://discord.gg/TUbZej9Pyb).
 * You may watch past videos on YouTube [here](https://www.youtube.com/watch?v=Umq4Ic76qA0&list=PLS2jJcAXR9IgLdhf2C74ms_aS4mZKuZJ1).
-* Upon request, we have a Google Calendar [here](https://calendar.google.com/calendar/embed?src=c_1mhnne9aivfokpjfi2g9vqc390%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+* Subscribe to our Google Calendar [here](https://calendar.google.com/calendar/embed?src=c_1mhnne9aivfokpjfi2g9vqc390%40group.calendar.google.com&ctz=America%2FLos_Angeles).
 Subscribe to the #PLTalk hashtag on Twitter for announcements and discussion!
 
 Hosted by Jean Yang ([me](https://twitter.com/jeanqasaur)), founder and CEO of [Akita Software](https://www.akitasoftware.com/) and Hongyi Hu, a security engineer at Figma.
 
+# Season Two
+The theme of Season Two is "Living with Reality." We'll be having a series of discussions about the realities of using and switching programming languages and tools.
+
+| Date  | Guest(s) | Topic | Reading | Video |
+| --- | --- | --- | --- | --- |
+| 10/29/21 | Yaron Minsky (Jane Street) | Becoming a 100% OCaml shop | [Why OCaml?](https://blog.janestreet.com/why-ocaml/) |  |
+| 11/5/21 | Rich Harris (creator of [Svelte](https://svelte.dev/) at the New York Times) | From JavaScript to TypeScript | TBD | |
+| 11/12/21 | Russ Cox (co-creator of Go at Google) | The Last Ten Years of Go Adoption | TBD | |
+| 11/19/21 | Julien Verlaguet (creator of Hack at Facebook | Adding Types to PHP | [Hack Blog Post](https://engineering.fb.com/2014/03/20/developer-tools/hack-a-new-programming-language-for-hhvm/) | TBD | |
+| 12/3/21 | Hasnain Lakhani and guest (Facebook) | The Benefits of Switching to Rust | [Meet the Rustaceans: Hasnain Lakhani](https://developers.facebook.com/blog/post/2021/10/12/meet-rustaceans-hasnain-lakhani/) | |
+
+# Season One
+We started this show accidentally, so there was no plan for Season One. We just kept going until it was time to take a break.
 
 | Date  | Guest(s) | Topic | Reading | Video |
 | --- | --- | --- | --- | --- |
